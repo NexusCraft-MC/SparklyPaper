@@ -129,4 +129,4 @@ It is recommended to use a Mojang mapped (mojmap) version unless if you *really*
 * **SparklyPaper:** https://github.com/SparklyPower/SparklyPaper/actions/workflows/build.yml
 * **SparklyPaper (without Parallel World Ticking):** https://github.com/SparklyPower/SparklyPaper/actions/workflows/build-without-pwt.yml
 
-Click on a workflow run, scroll down to the Artifacts, and download!
+Click on a workflow run, scroll down to the Artifacts, and download
